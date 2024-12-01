@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.enable": true,
+  "problems.decorations.enabled": false,
+  "eslint.rules.customizations": [{ "rule": "perfectionist/sort-imports", "severity": "off" }]
+}

@@ -1,2 +1,6 @@
-# bakka_dashboard
-Une application web qui sert de dashboard aux back offices
+## Quick start
+
+- Recommended `Node.js v18.x`.
+- **Install:** `yarn install`
+- **Start:** `yarn dev`
+- **Build:** `yarn build`
